@@ -1,0 +1,840 @@
+{
+  "carriers":[
+   {
+      "carrier_name":"TYRONE THOMPSON",
+      "city":"TYLER",
+      "contact_person":"Tyrone Thompson",
+      "dot":"1992331",
+      "drops":[
+         [
+            {
+               "commodity":"Water",
+               "dates":"2017-02-07",
+               "from":"3265 Farm to Market Road 2869",
+               "from-city":"Hawkins",
+               "from-state":"TX",
+               "from-zip":"75765",
+               "price":"452.45",
+               "shipper":"Albertsons (Safeway)",
+               "times":"00:00",
+               "to":"743 Henrietta Creek Road",
+               "to-city":"Roanoke",
+               "to-state":"TX",
+               "to-zip":"76262",
+               "weight":"45000"
+            },
+            {
+               "commodity":"food product",
+               "dates":"2017-02-17",
+               "from":"743 Henrietta Creek Road",
+               "from-city":"Roanoke",
+               "from-state":"TX",
+               "from-zip":"76262",
+               "price":"452.45",
+               "shipper":"Albertsons (Safeway)",
+               "times":"13:00",
+               "to":"3265 Farm to Market Road 2869",
+               "to-city":"Hawkins",
+               "to-state":"TX",
+               "to-zip":"75765",
+               "weight":"45000"
+            }
+         ]
+      ],
+      "email":"tmoneytrucking@hotmail.com",
+      "equipment":"D",
+      "shipments":[
+         [
+            {
+               "commodity":"Water",
+               "dates":"2017-02-07",
+               "from":"743 Henrietta Creek Road",
+               "from-city":"Roanoke",
+               "from-state":"TX",
+               "from-zip":"76262",
+               "price":"452.45",
+               "shipper":"Albertsons (Safeway)",
+               "times":"14:00",
+               "to":"3265 Farm to Market Road 2869",
+               "to-city":"Hawkins",
+               "to-state":"TX",
+               "to-zip":"75765",
+               "weight":"45000"
+            },
+            {
+               "commodity":"food product",
+               "dates":"2017-02-17",
+               "from":"743 Henrietta Creek Road",
+               "from-city":"Roanoke",
+               "from-state":"TX",
+               "from-zip":"76262",
+               "price":"452.45",
+               "shipper":"Albertsons (Safeway)",
+               "times":"13:00",
+               "to":"3265 Farm to Market Road 2869",
+               "to-city":"Hawkins",
+               "to-state":"TX",
+               "to-zip":"75765",
+               "weight":"45000"
+            }
+         ]
+      ],
+      "state":"TX",
+      "telephone":"9032836612"
+   },
+   {
+      "carrier_name":"JANET HART",
+      "city":"TYLER",
+      "contact_person":"vincent hart",
+      "dot":"2083717",
+      "drops":[
+         [
+            {
+               "commodity":"Water",
+               "dates":"2017-01-17",
+               "from":"3265 Farm to Market Road 2869",
+               "from-city":"Hawkins",
+               "from-state":"TX",
+               "from-zip":"75765",
+               "price":"452.45",
+               "shipper":"Albertsons (Safeway)",
+               "times":"19:00",
+               "to":"743 Henrietta Creek Road",
+               "to-city":"Roanoke",
+               "to-state":"TX",
+               "to-zip":"76262",
+               "weight":"45000"
+            },
+            {
+               "commodity":"Water",
+               "dates":"2017-03-16",
+               "from":"743 Henrietta Creek Road",
+               "from-city":"Roanoke",
+               "from-state":"TX",
+               "from-zip":"76262",
+               "price":"454.27",
+               "shipper":"Albertsons (Safeway)",
+               "times":"11:00",
+               "to":"3265 Farm to Market Road 2869",
+               "to-city":"Hawkins",
+               "to-state":"TX",
+               "to-zip":"75765",
+               "weight":"45000"
+            }
+         ]
+      ],
+      "email":"bigheart@suddenlink.net",
+      "equipment":"D",
+      "shipments":[
+         [
+            {
+               "commodity":"food product",
+               "dates":"2017-02-16",
+               "from":"743 Henrietta Creek Road",
+               "from-city":"Roanoke",
+               "from-state":"TX",
+               "from-zip":"76262",
+               "price":"452.45",
+               "shipper":"Albertsons (Safeway)",
+               "times":"13:00",
+               "to":"3265 Farm to Market Road 2869",
+               "to-city":"Hawkins",
+               "to-state":"TX",
+               "to-zip":"75765",
+               "weight":"45000"
+            },
+            {
+               "commodity":"food product",
+               "dates":"2017-02-21",
+               "from":"743 Henrietta Creek Road",
+               "from-city":"Roanoke",
+               "from-state":"TX",
+               "from-zip":"76262",
+               "price":"452.45",
+               "shipper":"Albertsons (Safeway)",
+               "times":"13:00",
+               "to":"3265 Farm to Market Road 2869",
+               "to-city":"Hawkins",
+               "to-state":"TX",
+               "to-zip":"75765",
+               "weight":"45000"
+            }
+         ]
+      ],
+      "state":"TX",
+      "telephone":"19033161292"
+   },
+   {
+      "carrier_name":"GLOBE LOGISTICS INC",
+      "city":"NORTH ARLINGTON",
+      "contact_person":"Mile ",
+      "dot":"1835635",
+      "drops":[
+         [
+            {
+               "commodity":"Boxed books on pallets",
+               "dates":"2016-09-22",
+               "from":"750 Cascadilla Street",
+               "from-city":"Ithaca",
+               "from-state":"NY",
+               "from-zip":"14850",
+               "price":"784.73",
+               "shipper":"Recovery Market Solutions",
+               "times":"12:00",
+               "to":"215 North Zarfoss Drive",
+               "to-city":"York",
+               "to-state":"PA",
+               "to-zip":"17404",
+               "weight":"40000"
+            },
+            {
+               "commodity":"metal scrap",
+               "dates":"2017-03-01",
+               "from":"150 Saint Charles Street",
+               "from-city":"Newark",
+               "from-state":"NJ",
+               "from-zip":"07105",
+               "price":"491.55",
+               "shipper":"c&y group east coast inc.",
+               "times":"17:00",
+               "to":"431 2nd Street",
+               "to-city":"Everett",
+               "to-state":"MA",
+               "to-zip":"02149",
+               "weight":"45000"
+            }
+         ]
+      ],
+      "email":"dispatch@shipgl.com",
+      "equipment":"D",
+      "shipments":[
+         [
+            {
+               "commodity":"METAL SCRAP",
+               "dates":"2016-12-19",
+               "from":"340 Maspeth Avenue",
+               "from-city":"Brooklyn",
+               "from-state":"NY",
+               "from-zip":"11211",
+               "price":"450.38",
+               "shipper":"c&y group east coast inc.",
+               "times":"13:00",
+               "to":"150 Saint Charles Street",
+               "to-city":"Newark",
+               "to-state":"NJ",
+               "to-zip":"07105",
+               "weight":"45000"
+            },
+            {
+               "commodity":"metal scrap",
+               "dates":"2017-01-26",
+               "from":"150 Saint Charles Street",
+               "from-city":"Newark",
+               "from-state":"NJ",
+               "from-zip":"07105",
+               "price":"493.64",
+               "shipper":"c&y group east coast inc.",
+               "times":"13:00",
+               "to":"580 Lynnway",
+               "to-city":"Lynn",
+               "to-state":"MA",
+               "to-zip":"01905",
+               "weight":"45000"
+            }
+         ]
+      ],
+      "state":"NJ",
+      "telephone":"9739286868"
+   },
+   {
+      "carrier_name":"LANDSTAR RANGER INC",
+      "city":"JACKSONVILLE",
+      "contact_person":"Liza Sanchez-Contreras",
+      "dot":"241572",
+      "drops":[
+         [
+            {
+               "commodity":"BEER",
+               "dates":"2017-05-25",
+               "from":"1341 Liberty St",
+               "from-city":"Erie",
+               "from-state":"PA",
+               "from-zip":"16502",
+               "price":"1148.03",
+               "shipper":"Anheuser-Busch",
+               "times":"10:00",
+               "to":"800 Schrock Rd",
+               "to-city":"Columbus",
+               "to-state":"OH",
+               "to-zip":"43229",
+               "weight":"45000"
+            },
+            {
+               "commodity":"Beer",
+               "dates":"2017-05-29",
+               "from":"1471 Weeksville Rd",
+               "from-city":"Elizabeth City",
+               "from-state":"NC",
+               "from-zip":"27909",
+               "price":"1898.62",
+               "shipper":"Anheuser-Busch",
+               "times":"11:00",
+               "to":"221 Daniel Webster Highway",
+               "to-city":"Merrimack",
+               "to-state":"NH",
+               "to-zip":"03054",
+               "weight":"45000"
+            }
+         ]
+      ],
+      "email":"lizamcontreras7681@gmail.com",
+      "equipment":"D/F/R",
+      "shipments":[
+         [
+            {
+               "commodity":"BEER",
+               "dates":"2017-05-25",
+               "from":"1341 Liberty St",
+               "from-city":"Erie",
+               "from-state":"PA",
+               "from-zip":"16502",
+               "price":"1148.03",
+               "shipper":"Anheuser-Busch",
+               "times":"10:00",
+               "to":"800 Schrock Rd",
+               "to-city":"Columbus",
+               "to-state":"OH",
+               "to-zip":"43229",
+               "weight":"45000"
+            },
+            {
+               "commodity":"Beer",
+               "dates":"2017-05-29",
+               "from":"1471 Weeksville Rd",
+               "from-city":"Elizabeth City",
+               "from-state":"NC",
+               "from-zip":"27909",
+               "price":"1898.62",
+               "shipper":"Anheuser-Busch",
+               "times":"11:00",
+               "to":"221 Daniel Webster Highway",
+               "to-city":"Merrimack",
+               "to-state":"NH",
+               "to-zip":"03054",
+               "weight":"45000"
+            }
+         ]
+      ],
+      "state":"FL",
+      "telephone":"2103184560"
+   },
+   {
+      "carrier_name":"MCGOWEN TRANSPORT LLC",
+      "city":"MESQUITE",
+      "contact_person":"david mcgowen",
+      "dot":"2522731",
+      "drops":[
+         [
+            {
+               "commodity":"Water",
+               "dates":"2017-04-14",
+               "from":"3265 Farm to Market Road 2869",
+               "from-city":"Hawkins",
+               "from-state":"TX",
+               "from-zip":"75765",
+               "price":"453.23",
+               "shipper":"Albertsons (Safeway)",
+               "times":"14:00",
+               "to":"743 Henrietta Creek Road",
+               "to-city":"Roanoke",
+               "to-state":"TX",
+               "to-zip":"76262",
+               "weight":"45000"
+            },
+            {
+               "commodity":"Water",
+               "dates":"2017-04-28",
+               "from":"743 Henrietta Creek Road",
+               "from-city":"Roanoke",
+               "from-state":"TX",
+               "from-zip":"76262",
+               "price":"454.27",
+               "shipper":"Albertsons (Safeway)",
+               "times":"11:00",
+               "to":"3265 Farm to Market Road 2869",
+               "to-city":"Hawkins",
+               "to-state":"TX",
+               "to-zip":"75765",
+               "weight":"45000"
+            }
+         ]
+      ],
+      "email":"davidmcgowen69@gmail.com",
+      "equipment":"D",
+      "shipments":[
+         [
+            {
+               "commodity":"Water",
+               "dates":"2017-04-14",
+               "from":"3265 Farm to Market Road 2869",
+               "from-city":"Hawkins",
+               "from-state":"TX",
+               "from-zip":"75765",
+               "price":"453.23",
+               "shipper":"Albertsons (Safeway)",
+               "times":"14:00",
+               "to":"743 Henrietta Creek Road",
+               "to-city":"Roanoke",
+               "to-state":"TX",
+               "to-zip":"76262",
+               "weight":"45000"
+            },
+            {
+               "commodity":"Water",
+               "dates":"2017-04-27",
+               "from":"3265 Farm to Market Road 2869",
+               "from-city":"Hawkins",
+               "from-state":"TX",
+               "from-zip":"75765",
+               "price":"454.27",
+               "shipper":"Albertsons (Safeway)",
+               "times":"23:00",
+               "to":"743 Henrietta Creek Road",
+               "to-city":"Roanoke",
+               "to-state":"TX",
+               "to-zip":"76262",
+               "weight":"45000"
+            }
+         ]
+      ],
+      "state":"TX",
+      "telephone":"8177985491_"
+   },
+   {
+      "carrier_name":"TODAY'S DELIVERY SERVICE",
+      "city":"MABANK",
+      "contact_person":"charles nwigwe",
+      "dot":"1949254",
+      "drops":[
+         [
+            {
+               "commodity":"Water",
+               "dates":"2017-03-24",
+               "from":"3445 Farm to Market Road 2869",
+               "from-city":"Hawkins",
+               "from-state":"TX",
+               "from-zip":"75765",
+               "price":"454.27",
+               "shipper":"Albertsons (Safeway)",
+               "times":"00:00",
+               "to":"743 Henrietta Creek Road",
+               "to-city":"Roanoke",
+               "to-state":"TX",
+               "to-zip":"76262",
+               "weight":"45000"
+            },
+            {
+               "commodity":"food product",
+               "dates":"2017-04-17",
+               "from":"3265 Farm to Market Road 2869",
+               "from-city":"Hawkins",
+               "from-state":"TX",
+               "from-zip":"75765",
+               "price":"453.23",
+               "shipper":"Albertsons (Safeway)",
+               "times":"23:00",
+               "to":"743 Henrietta Creek Road",
+               "to-city":"Roanoke",
+               "to-state":"TX",
+               "to-zip":"76262",
+               "weight":"45000"
+            }
+         ]
+      ],
+      "email":"nwigwecharles@yahoo.com",
+      "equipment":"",
+      "shipments":[
+         [
+            {
+               "commodity":"Water",
+               "dates":"2017-04-17",
+               "from":"3265 Farm to Market Road 2869",
+               "from-city":"Hawkins",
+               "from-state":"TX",
+               "from-zip":"75765",
+               "price":"453.23",
+               "shipper":"Albertsons (Safeway)",
+               "times":"21:00",
+               "to":"743 Henrietta Creek Road",
+               "to-city":"Roanoke",
+               "to-state":"TX",
+               "to-zip":"76262",
+               "weight":"45000"
+            },
+            {
+               "commodity":"Bottled Water",
+               "dates":"2017-06-19",
+               "from":"743 Henrietta Creek Rd",
+               "from-city":"Roanoke",
+               "from-state":"TX",
+               "from-zip":"76262",
+               "price":"454.27",
+               "shipper":"Albertsons (Safeway)",
+               "times":"02:00",
+               "to":"3265 Farm to Market Road 2869",
+               "to-city":"Hawkins",
+               "to-state":"TX",
+               "to-zip":"75765",
+               "weight":"45000"
+            }
+         ]
+      ],
+      "state":"TX",
+      "telephone":"12148598516"
+   },
+   {
+      "carrier_name":"NIEVES TRANSPORTATION INC",
+      "city":"PHOENIX",
+      "contact_person":"charles ",
+      "dot":"697444",
+      "drops":[
+         [
+            {
+               "commodity":"Paper products",
+               "dates":"2017-04-06",
+               "from":"400 South 99th Avenue",
+               "from-city":"Tolleson",
+               "from-state":"AZ",
+               "from-zip":"85353",
+               "price":"1295.0",
+               "shipper":"Albertsons (Tolleson)",
+               "times":"01:00",
+               "to":"800 North Rice Avenue",
+               "to-city":"Oxnard",
+               "to-state":"CA",
+               "to-zip":"93030",
+               "weight":"10000"
+            },
+            {
+               "commodity":"Bottled water",
+               "dates":"2017-04-20",
+               "from":"14020 Elm Street",
+               "from-city":"Cabazon",
+               "from-state":"CA",
+               "from-zip":"92230",
+               "price":"876.44",
+               "shipper":"Albertsons (Tolleson)",
+               "times":"02:00",
+               "to":"400 South 99th Avenue",
+               "to-city":"Tolleson",
+               "to-state":"AZ",
+               "to-zip":"85353",
+               "weight":"43000"
+            }
+         ]
+      ],
+      "email":"nieves.transport@yahoo.com",
+      "equipment":"D",
+      "shipments":[
+         [
+            {
+               "commodity":"Bottled water",
+               "dates":"2017-04-25",
+               "from":"14020 Elm Street",
+               "from-city":"Cabazon",
+               "from-state":"CA",
+               "from-zip":"92230",
+               "price":"876.44",
+               "shipper":"Albertsons (Tolleson)",
+               "times":"23:00",
+               "to":"400 South 99th Avenue",
+               "to-city":"Tolleson",
+               "to-state":"AZ",
+               "to-zip":"85353",
+               "weight":"42000"
+            },
+            {
+               "commodity":"Bottled water",
+               "dates":"2017-05-11",
+               "from":"14020 Elm Street",
+               "from-city":"Cabazon",
+               "from-state":"CA",
+               "from-zip":"92230",
+               "price":"873.71",
+               "shipper":"Albertsons (Tolleson)",
+               "times":"23:00",
+               "to":"400 South 99th Avenue",
+               "to-city":"Tolleson",
+               "to-state":"AZ",
+               "to-zip":"85353",
+               "weight":"42000"
+            }
+         ]
+      ],
+      "state":"AZ",
+      "telephone":"6024550411 x 1"
+   },
+   {
+      "carrier_name":"D O C TRANSPORTATION INC",
+      "city":"FONTANA",
+      "contact_person":"van duong",
+      "dot":"2151977",
+      "drops":[
+         [
+            {
+               "commodity":"Sweet Snacks",
+               "dates":"2016-07-01",
+               "from":"2302 Henderson Way",
+               "from-city":"Plant City",
+               "from-state":"FL",
+               "from-zip":"33563",
+               "price":"3550.0",
+               "shipper":"Brownie Brittle LLC",
+               "times":"12:00",
+               "to":"4041 West Garry Avenue",
+               "to-city":"Santa Ana",
+               "to-state":"CA",
+               "to-zip":"92704",
+               "weight":"25000"
+            },
+            {
+               "commodity":"brownie crisps",
+               "dates":"2016-08-15",
+               "from":"2302 Henderson Way",
+               "from-city":"Plant City",
+               "from-state":"FL",
+               "from-zip":"33563",
+               "price":"4200.0",
+               "shipper":"Brownie Brittle LLC",
+               "times":"14:30",
+               "to":"4041 West Garry Avenue",
+               "to-city":"Santa Ana",
+               "to-state":"CA",
+               "to-zip":"92704",
+               "weight":"19000"
+            }
+         ]
+      ],
+      "email":"van@doctransinc.com",
+      "equipment":"D",
+      "shipments":[
+         [
+            {
+               "commodity":"Sweet Snacks",
+               "dates":"2016-07-20",
+               "from":"4041 West Garry Avenue",
+               "from-city":"Santa Ana",
+               "from-state":"CA",
+               "from-zip":"92704",
+               "price":"4300.0",
+               "shipper":"Brownie Brittle LLC",
+               "times":"22:00",
+               "to":"2302 Henderson Way",
+               "to-city":"Plant City",
+               "to-state":"FL",
+               "to-zip":"33563",
+               "weight":"16000"
+            },
+            {
+               "commodity":"Sweet Snacks",
+               "dates":"2016-07-25",
+               "from":"2302 Henderson Way",
+               "from-city":"Plant City",
+               "from-state":"FL",
+               "from-zip":"33563",
+               "price":"4300.0",
+               "shipper":"Brownie Brittle LLC",
+               "times":"12:00",
+               "to":"18560 South Wilmington Avenue",
+               "to-city":"Compton",
+               "to-state":"CA",
+               "to-zip":"90220",
+               "weight":"16000"
+            },
+            {
+               "commodity":"Sweet Snacks",
+               "dates":"2016-12-22",
+               "from":"2302 Henderson Way",
+               "from-city":"Plant City",
+               "from-state":"FL",
+               "from-zip":"33563",
+               "price":"4700.0",
+               "shipper":"Brownie Brittle LLC",
+               "times":"15:00",
+               "to":"4041 West Garry Avenue",
+               "to-city":"Santa Ana",
+               "to-state":"CA",
+               "to-zip":"92704",
+               "weight":"17000"
+            }
+         ]
+      ],
+      "state":"CA",
+      "telephone":"9512375522"
+   },
+   {
+      "carrier_name":"INTERCON LOGISTICS LLC",
+      "city":"Laredo",
+      "contact_person":"enrique serna",
+      "dot":"2555444",
+      "drops":[
+         [
+            {
+               "commodity":"auto parts",
+               "dates":"2017-10-28",
+               "from":"7802 Bob Bullock Loop",
+               "from-city":"Laredo",
+               "from-state":"TX",
+               "from-zip":"78045",
+               "price":"2425.16",
+               "shipper":"R-DTNA",
+               "times":"13:00",
+               "to":"501 Matrix Pkwy",
+               "to-city":"Piedmont",
+               "to-state":"SC",
+               "to-zip":"29673",
+               "weight":"45000"
+            },
+            {
+               "commodity":"auto parts",
+               "dates":"2017-10-27",
+               "from":"7802 Bob Bullock Loop",
+               "from-city":"Laredo",
+               "from-state":"TX",
+               "from-zip":"78045",
+               "price":"2425.16",
+               "shipper":"R-DTNA",
+               "times":"13:00",
+               "to":"501 Matrix Pkwy",
+               "to-city":"Piedmont",
+               "to-state":"SC",
+               "to-zip":"29673",
+               "weight":"45000"
+            }
+         ]
+      ],
+      "email":"enrique.serna@interconcarriers.com",
+      "equipment":"",
+      "shipments":[
+         [
+            {
+               "commodity":"auto parts",
+               "dates":"2017-10-28",
+               "from":"7802 Bob Bullock Loop",
+               "from-city":"Laredo",
+               "from-state":"TX",
+               "from-zip":"78045",
+               "price":"2425.16",
+               "shipper":"R-DTNA",
+               "times":"13:00",
+               "to":"501 Matrix Pkwy",
+               "to-city":"Piedmont",
+               "to-state":"SC",
+               "to-zip":"29673",
+               "weight":"45000"
+            },
+            {
+               "commodity":"auto parts",
+               "dates":"2017-10-27",
+               "from":"7802 Bob Bullock Loop",
+               "from-city":"Laredo",
+               "from-state":"TX",
+               "from-zip":"78045",
+               "price":"2425.16",
+               "shipper":"R-DTNA",
+               "times":"13:00",
+               "to":"501 Matrix Pkwy",
+               "to-city":"Piedmont",
+               "to-state":"SC",
+               "to-zip":"29673",
+               "weight":"45000"
+            }
+         ]
+      ],
+      "state":"TX",
+      "telephone":"+19567257275"
+   },
+   {
+      "carrier_name":"1919 QUEENZ TRUCKING LLC",
+      "city":"MESQUITE",
+      "contact_person":"W.O. Turner",
+      "dot":"1338019",
+      "drops":[
+         [
+            {
+               "commodity":"food product",
+               "dates":"2017-04-11",
+               "from":"3265 Farm to Market Road 2869",
+               "from-city":"Hawkins",
+               "from-state":"TX",
+               "from-zip":"75765",
+               "price":"453.23",
+               "shipper":"Albertsons (Safeway)",
+               "times":"00:00",
+               "to":"743 Henrietta Creek Road",
+               "to-city":"Roanoke",
+               "to-state":"TX",
+               "to-zip":"76262",
+               "weight":"45000"
+            },
+            {
+               "commodity":"Bottled Water",
+               "dates":"2017-07-11",
+               "from":"3265 Farm to Market Road 2869",
+               "from-city":"Hawkins",
+               "from-state":"TX",
+               "from-zip":"75765",
+               "price":"452.06",
+               "shipper":"Albertsons (Safeway)",
+               "times":"20:00",
+               "to":"743 Henrietta Creek Rd",
+               "to-city":"Roanoke",
+               "to-state":"TX",
+               "to-zip":"76262",
+               "weight":"45000"
+            }
+         ]
+      ],
+      "email":"1919queenztrucking@gmail.com",
+      "equipment":"D",
+      "shipments":[
+         [
+            {
+               "commodity":"Water",
+               "dates":"2017-06-05",
+               "from":"743 Henrietta Creek Rd",
+               "from-city":"Roanoke",
+               "from-state":"TX",
+               "from-zip":"76262",
+               "price":"453.23",
+               "shipper":"Albertsons (Safeway)",
+               "times":"03:00",
+               "to":"3265 Farm to Market Road 2869",
+               "to-city":"Hawkins",
+               "to-state":"TX",
+               "to-zip":"75765",
+               "weight":"44000"
+            },
+            {
+               "commodity":"Bottled Water",
+               "dates":"2017-07-06",
+               "from":"3265 Farm to Market Road 2869",
+               "from-city":"Hawkins",
+               "from-state":"TX",
+               "from-zip":"75765",
+               "price":"452.06",
+               "shipper":"Albertsons (Safeway)",
+               "times":"19:00",
+               "to":"743 Henrietta Creek Rd",
+               "to-city":"Roanoke",
+               "to-state":"TX",
+               "to-zip":"76262",
+               "weight":"45000"
+            }
+         ]
+      ],
+      "state":"TX",
+      "telephone":"14694010597"
+   }
+ ]
+}
